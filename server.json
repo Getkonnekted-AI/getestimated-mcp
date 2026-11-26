@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "za.co.getestimated/sa-estimate",
+  "title": "GetEstimatED — South African building cost estimates",
+  "description": "South African building costs: rates, material price index, quick estimates, quote checks, BOQs",
+  "version": "1.0.0",
+  "websiteUrl": "https://getestimated.co.za/",
+  "repository": { "url": "https://github.com/Getkonnekted-AI/getestimated-mcp", "source": "github" },
+  "icons": [ { "src": "https://getestimated.co.za/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"], "theme": "light" } ],
+  "remotes": [ { "type": "streamable-http", "url": "https://getestimated.co.za/api/mcp/estimate" } ]
+}

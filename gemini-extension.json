@@ -1,0 +1,7 @@
+{
+  "name": "getestimated",
+  "version": "1.0.0",
+  "description": "South African building costs: rates, material prices, quick estimates, quote checks and BOQs",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": { "getestimated": { "httpUrl": "https://getestimated.co.za/api/mcp/estimate" } }
+}

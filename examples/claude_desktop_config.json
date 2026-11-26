@@ -1,0 +1,1 @@
+{ "mcpServers": { "getestimated": { "type": "http", "url": "https://getestimated.co.za/api/mcp/estimate" } } }
